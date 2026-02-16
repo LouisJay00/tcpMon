@@ -188,6 +188,7 @@ func getCompressionRatio(data: [UInt8]) -> Float {
     return (Float(compressedSize) / Float(uncompressedSize)) * 100
 }
 
+
 ///Description: This function converts from a character representation of the packet contents to a numerical representation.
 func getByteFromTwoHexDigit(hexDigit1: Character, hexDigit2: Character) -> UInt8 {
     let number1 = hexDigitToNumber[hexDigit1]!
