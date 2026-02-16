@@ -30,6 +30,11 @@ let hexDigitToNumber: [Character : UInt8] = [
 
 let SampleTcpDumpOptions = "tcpdump -i en0 -x 'port 853 or port 443' -nn"
 
+
+if CommandLine.arguments.count > 1 {
+    parseArguments(CommandLine.arguments)
+}
+
 readDataFromFile()
 
 func readDataFromFile() {
@@ -111,6 +116,17 @@ func printContents(_ packetData: [UInt8]) {
     //ToDo
 }
 
+func parseArguments(_ arguments: [String]){
+    /// -v Verbose: Print packet header and data
+    let arguments = CommandLine.arguments
+    for i in arguments {
+        print(i)
+    }
+    
+    
+    print("Got here")
+}
+
 
 func callGZipExecutable(_ packetData: [UInt8]) -> Int {
     let process = Process()
@@ -142,7 +158,7 @@ func callGZipExecutable(_ packetData: [UInt8]) -> Int {
             }
             print("")*/
             
-            print(Data(gzipOutputRawData).base64EncodedString())
+            //print(Data(gzipOutputRawData).base64EncodedString())
             
             return gzipOutputRawData.count
         }

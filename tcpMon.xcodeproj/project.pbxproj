@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		BF13E76B2F357A2600DC6837 /* tcpMon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = tcpMon; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF13E7892F41B75A00DC6837 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.markdown; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		BF13E7622F357A2600DC6837 = {
 			isa = PBXGroup;
 			children = (
+				BF13E7892F41B75A00DC6837 /* README.md */,
 				BF13E76D2F357A2600DC6837 /* tcpMon */,
 				BF13E76C2F357A2600DC6837 /* Products */,
 			);
