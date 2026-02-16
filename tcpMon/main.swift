@@ -9,6 +9,7 @@ import Foundation
 import RegexBuilder
 import Compression
 
+///Description: this table converts from the character representation of a digit to the numerical representation of the digit.
 let hexDigitToNumber: [Character : UInt8] = [
     "0" : 0,
     "1" : 1,
@@ -28,6 +29,7 @@ let hexDigitToNumber: [Character : UInt8] = [
     "f" : 0xf,
 ]
 
+///This option shows an expected set of arguments provided to tcpdump before calling this program.
 let SampleTcpDumpOptions = "tcpdump -i en0 -x 'port 853 or port 443' -nn"
 
 
@@ -37,6 +39,8 @@ if CommandLine.arguments.count > 1 {
 
 readDataFromFile()
 
+///Description: This function continually reads from standard input / file to interpret new packet data.
+///Expects the -X flag, which gives a hex representation of the packet contents.
 func readDataFromFile() {
     var packetCaptureAggregation: [String : [UInt8]] = [:]
     var currentLine = readLine(strippingNewline: true)
@@ -111,23 +115,31 @@ func readDataFromFile() {
 
     }
 }
-
+/// - Parameters:
+/// - packetData - UInt8 array of the packetdata contents
 func printContents(_ packetData: [UInt8]) {
     //ToDo
 }
 
+/// Description: parses command line arguments provided to tcpmon
+///-v Verbose: Print packet header and data
+/// - Parameters:
+/// - arguments: the command line arguments provided to the program at runtime.
 func parseArguments(_ arguments: [String]){
-    /// -v Verbose: Print packet header and data
+
     let arguments = CommandLine.arguments
     for i in arguments {
         print(i)
     }
     
-    
     print("Got here")
 }
 
-
+///Description: Calls gzip to compress the packet data, returns an
+///- Parameters:
+/// - packetData - UInt8 array of the packetdata contents
+/// - Returns:
+/// - Integer error or sucess code depending on operation.
 func callGZipExecutable(_ packetData: [UInt8]) -> Int {
     let process = Process()
     let pipeOut = Pipe()
@@ -168,6 +180,7 @@ func callGZipExecutable(_ packetData: [UInt8]) -> Int {
     return -1
 }
 
+///Description: Returns a compression ratio of the compressed size verses the uncompressed size.
 func getCompressionRatio(data: [UInt8]) -> Float {
     let compressedSize = callGZipExecutable(data)
     let uncompressedSize = data.count
@@ -175,6 +188,7 @@ func getCompressionRatio(data: [UInt8]) -> Float {
     return (Float(compressedSize) / Float(uncompressedSize)) * 100
 }
 
+///Description: This function converts from a character representation of the packet contents to a numerical representation.
 func getByteFromTwoHexDigit(hexDigit1: Character, hexDigit2: Character) -> UInt8 {
     let number1 = hexDigitToNumber[hexDigit1]!
     let number2 = hexDigitToNumber[hexDigit2]!
