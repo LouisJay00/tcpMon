@@ -110,9 +110,6 @@ func readDataFromFile() {
             }*/
         }
        
-            
-
-
     }
 }
 /// - Parameters:
@@ -122,17 +119,44 @@ func printContents(_ packetData: [UInt8]) {
 }
 
 /// Description: parses command line arguments provided to tcpmon
-///-v Verbose: Print packet header and data
+/// -v Verbose: Print packet header and data
+/// -L <value> Limit collection value, pick between 1 and 2000.
 /// - Parameters:
 /// - arguments: the command line arguments provided to the program at runtime.
+///
 func parseArguments(_ arguments: [String]){
-
+    
     let arguments = CommandLine.arguments
-    for i in arguments {
-        print(i)
+    let defaultValue = 1000
+    var limitFlag: Int = defaultValue
+ 
+    
+    for i in 0 ... arguments.count - 1 {
+        switch arguments[i] {
+        
+        case "-v":
+            print("Verbose flag set.")
+        case "-l":
+            if i + 1  < arguments.count {
+                if Int(arguments[i+1]) != nil {
+                    //print("Limit value flag set to \(arguments[i+1])")
+                    limitFlag = Int(arguments[i+1]) ?? defaultValue
+                    ///Need to skip the next iteration on arguments[i], otherwise the default value will always trigger.
+                } else {
+                    print("Limit flag must be set with a number.")
+                    //Todo: Break, end program.
+                }
+            } else{
+                print("Missing value after Limit flag.")
+                //Break, end program.
+            }
+
+        default:
+            print(arguments[i])
+        }
+        
     }
     
-    print("Got here")
 }
 
 ///Description: Calls gzip to compress the packet data, returns an
