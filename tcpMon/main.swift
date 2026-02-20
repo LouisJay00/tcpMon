@@ -33,15 +33,22 @@ let hexDigitToNumber: [Character : UInt8] = [
 let SampleTcpDumpOptions = "tcpdump -i en0 -x 'port 853 or port 443' -nn"
 
 
+let defaultValue = 1000
+var limitFlag = defaultValue
+var verboseFlag: Bool = false
+
 if CommandLine.arguments.count > 1 {
-    parseArguments(CommandLine.arguments)
+    limitFlag = parseArguments(CommandLine.arguments)
+    if limitFlag == -9999 {
+        //exit()
+    }
 }
 
-readDataFromFile()
+readDataFromFile(limitFlag)
 
 ///Description: This function continually reads from standard input / file to interpret new packet data.
 ///Expects the -X flag, which gives a hex representation of the packet contents.
-func readDataFromFile() {
+func readDataFromFile(_ limitFlag: Int) {
     var packetCaptureAggregation: [String : [UInt8]] = [:]
     var currentLine = readLine(strippingNewline: true)
     
@@ -99,14 +106,16 @@ func readDataFromFile() {
             packetCaptureAggregation[individualConnection]!.append(contentsOf: packetData)
         }
         
-        if packetCaptureAggregation[individualConnection]!.count > 1000 {
+        if packetCaptureAggregation[individualConnection]!.count > limitFlag {
             let compressionRatio = getCompressionRatio(data: packetCaptureAggregation[individualConnection]!)
             print(individualConnection)
             print("Compression ratio is:\u{001B}[36m \(compressionRatio.rounded())%\u{001B}[0m") //Cyan output text
             
-            /*print dictionary contents:
-             for (name, path) in packetCaptureAggregation {
-                    print("Connection to '\(name)' is '\(path)'.")
+            /*if verboseFlag {
+                //print dictionary contents:
+                 for (name, path) in packetCaptureAggregation {
+                 print("Connection to '\(name)' is '\(path)'.")
+                 }
             }*/
         }
        
@@ -124,24 +133,24 @@ func printContents(_ packetData: [UInt8]) {
 /// - Parameters:
 /// - arguments: the command line arguments provided to the program at runtime.
 ///
-func parseArguments(_ arguments: [String]){
+func parseArguments(_ arguments: [String]) -> Int{
     
     let arguments = CommandLine.arguments
-    let defaultValue = 1000
-    var limitFlag: Int = defaultValue
- 
+    //var limitFlag: Int = defaultValue
     
     for i in 0 ... arguments.count - 1 {
         switch arguments[i] {
         
         case "-v":
             print("Verbose flag set.")
+            verboseFlag = true
         case "-l":
             if i + 1  < arguments.count {
                 if Int(arguments[i+1]) != nil {
                     //print("Limit value flag set to \(arguments[i+1])")
                     limitFlag = Int(arguments[i+1]) ?? defaultValue
                     ///Need to skip the next iteration on arguments[i], otherwise the default value will always trigger.
+                    print("limit set to ", limitFlag)
                 } else {
                     print("Limit flag must be set with a number.")
                     //Todo: Break, end program.
@@ -152,14 +161,14 @@ func parseArguments(_ arguments: [String]){
             }
 
         default:
-            print(arguments[i])
+            continue
         }
         
     }
-    
+    return limitFlag
 }
 
-///Description: Calls gzip to compress the packet data, returns an
+///Description: Calls gzip to compress the packet data
 ///- Parameters:
 /// - packetData - UInt8 array of the packetdata contents
 /// - Returns:
@@ -188,14 +197,15 @@ func callGZipExecutable(_ packetData: [UInt8]) -> Int {
         let gzipOutputStream = pipeOut.fileHandleForReading;
         if let gzipOutputRawData = try gzipOutputStream.readToEnd() {
             
-            /*//return gzipOutputRawData.count
-            for i in gzipOutputRawData.startIndex ... gzipOutputRawData.endIndex - 1 {
+            //return gzipOutputRawData.count
+            /*for i in gzipOutputRawData.startIndex ... gzipOutputRawData.endIndex - 1 {
                 print(gzipOutputRawData[i], terminator: " ")
             }
-            print("")*/
-            
-            //print(Data(gzipOutputRawData).base64EncodedString())
-            
+            print("")
+            */
+            if verboseFlag {
+                print(Data(gzipOutputRawData).base64EncodedString())
+            }
             return gzipOutputRawData.count
         }
     } catch {
