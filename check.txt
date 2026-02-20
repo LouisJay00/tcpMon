@@ -1,0 +1,289 @@
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 43.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 43.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 42.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 42.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 42.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 41.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 41.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 41.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 40.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 40.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 52.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 51.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 40.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 40.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 39.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 51.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 51.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 39.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 39.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 39.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 50.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 50.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 39.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 39.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 39.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 50.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 50.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 39.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 38.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 38.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 50.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 49.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 38.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 38.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 38.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 49.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 49.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 49.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 49.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 49.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 48.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 48.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 48.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 48.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 48.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 48.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 48.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 48.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+fe80::215:5dff:fe01:1008.5353 ff02::fb.5353:
+Compression ratio is:[36m 18.0%[0m
+fe80::215:5dff:fe01:1008.5353 ff02::fb.5353:
+Compression ratio is:[36m 12.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 36.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 35.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 46.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 46.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 102.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 99.0%[0m
+2001:558:fd00:ca::5.443: fd78:d8b9:7726:0:18ab:958e:b457:b246.54144
+Compression ratio is:[36m 102.0%[0m
+192.168.1.146.51436 96.106.7.232.443:
+Compression ratio is:[36m 102.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 35.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 35.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 35.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2606:1a40::11.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.52854:
+Compression ratio is:[36m 100.0%[0m
+2606:1a40::11.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.52854:
+Compression ratio is:[36m 97.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 98.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 46.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 97.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 97.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 96.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2620:149:1368::1c.443: fd78:d8b9:7726:0:18ab:958e:b457:b246.60471
+Compression ratio is:[36m 97.0%[0m
+2620:149:1368::1c.443: fd78:d8b9:7726:0:18ab:958e:b457:b246.60471
+Compression ratio is:[36m 94.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 47.0%[0m
+2606:1a40::11.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.52854:
+Compression ratio is:[36m 95.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 95.0%[0m
+17.248.192.4.443: 192.168.1.146.64528
+Compression ratio is:[36m 100.0%[0m
+17.248.192.4.443: 192.168.1.146.64528
+Compression ratio is:[36m 98.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 95.0%[0m
+2001:558:fd00:ca::5.443: fd78:d8b9:7726:0:18ab:958e:b457:b246.61625
+Compression ratio is:[36m 98.0%[0m
+2001:558:fd00:ca::5.443: fd78:d8b9:7726:0:18ab:958e:b457:b246.61625
+Compression ratio is:[36m 95.0%[0m
+2620:149:1368::1c.443 fd78:d8b9:7726:0:18ab:958e:b457:b246.60471:
+Compression ratio is:[36m 98.0%[0m
+2620:149:1368::1c.443 fd78:d8b9:7726:0:18ab:958e:b457:b246.60471:
+Compression ratio is:[36m 97.0%[0m
+2620:149:1368::1c.443: fd78:d8b9:7726:0:18ab:958e:b457:b246.60471
+Compression ratio is:[36m 92.0%[0m
+2620:149:1368::1c.443 fd78:d8b9:7726:0:18ab:958e:b457:b246.60471:
+Compression ratio is:[36m 96.0%[0m
+2620:149:1368::1c.443: fd78:d8b9:7726:0:18ab:958e:b457:b246.60471
+Compression ratio is:[36m 89.0%[0m
+192.168.1.146.61626 96.106.7.232.443:
+Compression ratio is:[36m 101.0%[0m
+192.168.1.146.61626 96.106.7.232.443:
+Compression ratio is:[36m 99.0%[0m
+17.248.192.4.443 192.168.1.146.64528:
+Compression ratio is:[36m 101.0%[0m
+17.248.192.4.443 192.168.1.146.64528:
+Compression ratio is:[36m 100.0%[0m
+17.248.192.4.443 192.168.1.146.64528:
+Compression ratio is:[36m 99.0%[0m
+2606:1a40::11.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.52854:
+Compression ratio is:[36m 94.0%[0m
+17.248.192.4.443: 192.168.1.146.64528
+Compression ratio is:[36m 96.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.52854
+Compression ratio is:[36m 94.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.60068:
+Compression ratio is:[36m 37.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 46.0%[0m
+2a0e:6901:410:25:5054:ff:fe1c:7c81.853: fd78:d8b9:7726:0:18ab:958e:b457:b246.60068
+Compression ratio is:[36m 46.0%[0m
+2620:149:1368::1c.443: fd78:d8b9:7726:0:18ab:958e:b457:b246.60471
+Compression ratio is:[36m 87.0%[0m
+2606:1a40::11.853 fd78:d8b9:7726:0:18ab:958e:b457:b246.52854:
+Compression ratio is:[36m 92.0%[0m
+2606:1a40::11.853: fd78:d8b9:7726:0:18ab:958e:b457:b

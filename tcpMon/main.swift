@@ -36,6 +36,7 @@ let SampleTcpDumpOptions = "tcpdump -i en0 -x 'port 853 or port 443' -nn"
 let defaultValue = 1000
 var limitFlag = defaultValue
 var verboseFlag: Bool = false
+var portFlag: Bool = false
 
 if CommandLine.arguments.count > 1 {
     limitFlag = parseArguments(CommandLine.arguments)
@@ -44,7 +45,10 @@ if CommandLine.arguments.count > 1 {
     }
 }
 
-readDataFromFile(limitFlag)
+if !portFlag {
+    readDataFromFile(limitFlag)
+}
+
 
 ///Description: This function continually reads from standard input / file to interpret new packet data.
 ///Expects the -X flag, which gives a hex representation of the packet contents.
@@ -62,7 +66,7 @@ func readDataFromFile(_ limitFlag: Int) {
         if currentLineParts[2] < currentLineParts[4] {
             individualConnection = currentLineParts[2] + " " + currentLineParts[4]
         } else {
-            individualConnection = currentLineParts[2] + " " + currentLineParts[4]
+            individualConnection = currentLineParts[4] + " " + currentLineParts[2]
         }
         
         while (true) {
@@ -128,11 +132,11 @@ func printContents(_ packetData: [UInt8]) {
 }
 
 /// Description: parses command line arguments provided to tcpmon
-/// -v Verbose: Print packet header and data
-/// -L <value> Limit collection value, pick between 1 and 2000.
 /// - Parameters:
 /// - arguments: the command line arguments provided to the program at runtime.
-///
+/// - -v Verbose: Print packet header and data
+/// - -L <value> Limit collection value, pick between 1 and 2000.
+/// - -p  display compression rate by Port
 func parseArguments(_ arguments: [String]) -> Int{
     
     let arguments = CommandLine.arguments
@@ -141,10 +145,12 @@ func parseArguments(_ arguments: [String]) -> Int{
     for i in 0 ... arguments.count - 1 {
         switch arguments[i] {
         
-        case "-v":
+        case "-v",
+             "-V":
             print("Verbose flag set.")
             verboseFlag = true
-        case "-l":
+        case "-l",
+             "-L":
             if i + 1  < arguments.count {
                 if Int(arguments[i+1]) != nil {
                     //print("Limit value flag set to \(arguments[i+1])")
@@ -159,7 +165,10 @@ func parseArguments(_ arguments: [String]) -> Int{
                 print("Missing value after Limit flag.")
                 //Break, end program.
             }
-
+        case "-p",
+            "-P":
+            print("port flag set")
+            portFlag = true
         default:
             continue
         }
